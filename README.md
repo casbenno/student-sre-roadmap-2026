@@ -13,6 +13,39 @@ Learn the core SRE skills:
 - Monitoring and observability
 - Incident response and reliability engineering
 
+## Site Reliability Engineer Roadmap 2026 (Simplilearn)
+
+SRE Learning Path (Steps 1-8)
+
+### Step 1: Linux & Networking
+- Foundation: Linux operating systems, networking protocols, IP addressing
+
+### Step 2: Programming & Scripting
+- Languages: Go, Python — essential for automation and infrastructure scripts
+
+### Step 3: Cloud & Infrastructure
+- Platforms: AWS, cloud architecture, infrastructure fundamentals
+
+### Step 4: Containers & Orchestration
+- Technologies: Docker, container management, orchestration principles
+
+### Step 5: CI/CD Pipelines
+- Continuous Integration/Deployment, automated testing, deployment automation
+
+### Step 6: Cloud & Infrastructure (Advanced)
+- Includes: Kubernetes (K8s), advanced orchestration
+- Tools shown: Helm, other cloud-native technologies
+
+### Step 7: Monitoring & Observability
+- System monitoring, logging, distributed tracing, metrics collection
+
+### Step 8: Incident Management & Security
+- Incident response, security practices, risk management
+
+### Final Level: Projects & Certifications
+- Capstone projects demonstrating SRE skills
+- Professional certifications to validate expertise
+
 ## Best Resource Order
 
 ### Phase 1: Foundations and GitHub workflows
@@ -81,37 +114,37 @@ SREs need to understand systems and failure patterns.
 This is the real SRE layer.
 
 10. Kubernetes and containers
-   - Learn:
-     - pods
-     - deployments
-     - services
-     - configmaps and secrets
-     - health checks
-     - rollouts and rollbacks
+    - Learn:
+      - pods
+      - deployments
+      - services
+      - configmaps and secrets
+      - health checks
+      - rollouts and rollbacks
 
 11. Monitoring and observability
-   - Learn:
-     - metrics
-     - logs
-     - traces
-     - dashboards
-     - alerts
-   - Tools:
-     - Prometheus
-     - Grafana
-     - OpenTelemetry
-     - Azure Monitor
-     - AWS CloudWatch
-     - Loki
+    - Learn:
+      - metrics
+      - logs
+      - traces
+      - dashboards
+      - alerts
+    - Tools:
+      - Prometheus
+      - Grafana
+      - OpenTelemetry
+      - Azure Monitor
+      - AWS CloudWatch
+      - Loki
 
 12. Incident response and resilience
-   - Learn:
-     - SLIs
-     - SLOs
-     - runbooks
-     - postmortems
-     - failure domains
-     - recovery strategies
+    - Learn:
+      - SLIs
+      - SLOs
+      - runbooks
+      - postmortems
+      - failure domains
+      - recovery strategies
 
 ## Recommended Completion Order
 
@@ -202,6 +235,3 @@ For an SRE student, the highest-value combination is:
 - Monitoring and incident response
 
 This combination gives you both the theory and the practical experience needed for an entry-level SRE role.
-
-## Suggested Repo Name
-student-sre-roadmap-2026
